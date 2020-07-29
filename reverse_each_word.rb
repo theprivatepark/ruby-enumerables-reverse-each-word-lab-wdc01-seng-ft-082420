@@ -6,5 +6,5 @@ def reverse_each_word(sentence)
   array.collect do |element|
     reversed << element.reverse
   end
-  reversed
+  reversed.join
 end
