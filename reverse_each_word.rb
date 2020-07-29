@@ -2,6 +2,7 @@
 
 def reverse_each_word_w_each(sentence)
   og_array = sentence.split("")
+  returned_array = []
   
 
 def reverse_each_word(sentence)
